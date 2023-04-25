@@ -1,5 +1,4 @@
-# ChatGPT_TGBot
-## ChatGPT telegram bot
+# ChatGPT telegram bot
 
 Bot that uses the ChatGPT model to generate text.<br>
 Бот, использующий модель ChatGPT для генерации текста
@@ -8,3 +7,4 @@ Bot that uses the ChatGPT model to generate text.<br>
 
 About ***<a href="https://openai.com/blog/chatgpt">ChatGPT</a>***
 
+P.S. Планируется переход с `PyTelegramBotAPI` на `AIOgram3`
